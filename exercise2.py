@@ -52,3 +52,7 @@ vouShow = dinheiroDoPai or ganheiIngresso
 vouShow
 #True
 
+#ex: testando a procedência
+# precisa lembrar de definir x e y
+((x > 0) and (not y == 50)) or (x + y == 150) 
+#False
